@@ -10,5 +10,6 @@ An end-to-end ML project using XGBoost and GridSearchCV to predict heart disease
 Run the app via Docker:
 
 docker pull kumar2700/heartdisease-prediction:latest
+
 docker run -p 8501:8501 kumar2700/heartdisease-prediction:latest
 
